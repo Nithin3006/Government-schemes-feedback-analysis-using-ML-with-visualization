@@ -1,0 +1,64 @@
+Category,Query,Response,preprocessed_Question
+Branches,what are the different branches avialable in the college?,"Since we have branches like CSE,ISE,AI&DS,ECE,EEE,ME,CE.",?
+Branches,Does the college offer M.tech?,"yes ,the college offer M.Tech.",. ?
+Branches,Is there Diploma program is avialable in college?,"yes,we do offer the diploma program.",?
+Branches,Is there a MBA program in the college?,"yes,we do have MBA program.",?
+Branches,What is the input and output of the CSE branch?," CSE Input:120,Output:120 .",?
+Branches,Can I Switch my Branch after the first Year?,"yes ,It is avialble to switch to diffrent branches after First year.",?
+Admission,how do i apply for admission to the college?,you can contact college or you can visit the college and apply for admission.,?
+Admission,What is the admission process for B.E cources,"There four ways you can get admission to our college.1:Management Quota,2:KCET,3:COMEDK,4:CIT-CAT",.
+Admission,Does the college have management quota admission,Yes college had management quota admission.,
+Admission,What are the eligibility criteria for B.E admission?,The eligibility criteria is you sholuld get pass in 12th grade.,. ?
+Admission,Can diploma students apply for lateral entry?,Yes Diploma students can apply for lateral entry,?
+Admission,What are the eligibility criteria for M.Tech admissions?,he/she should be from B.E/B-tech degree discipline and require a minimum of 50%-60% marks (or CGPA of 6.0-7.0/10)in the qualifying degree,. ?
+Admission,Which entrance exams are accepted for admission?,"KCET,COMEDK",?
+Admission,What is the cutoff rank for CSE in KCET?,"3BG-58434,GM-53563,",?
+Admission,Does the college accept direct admission without an entrance exam?,"yes ,college accept adimission without an entrance test through management quota",?
+Admission,What was the previous year's cutoff for Mechanical Engineering?,GM-270260,' ?
+Admission,What was the previous year's cutoff for Civil Engineering?,GM-274476,' ?
+Admission,What was the previous year's cutoff for Electronics Engineering?,"GM-87659,3BG-93139",' ?
+Admission,What was the previous year's cutoff for Electrial Engineering?,GM-115995,' ?
+Admission,What was the previous year's cutoff for Info.science Engineering?,GM-80948,' . ?
+Admission,What was the previous year's cutoff for AI&DS Engineering?,GM-67853,' & ?
+Admission,Does the college conduct its own entrance exam?,"yes,College conduct its own enterance exam-CIT-CAT",?
+Academics,How can I check my exam schedule?,You can check through Dhi app or vtu official website.,?
+Academics,What is the minimum attendance required for exams?,Attendence should be more than 75%.,?
+Academics,How can I check my attendance record?,you can find your attendence record in the DHI app or CMS.,?
+Academics,Where can I find my semester timetable?,you can find your semester timetable in the DHI app or CMS.,?
+Academics,Where can I find the academic calendar?,you can find your academic calendar in the DHI app or CMS.,?
+hostel and transport,Does the college provide hostel facilities?,"yes,college provides hostel facilities.",?
+hostel and transport,Is the hostel available for both boys and girls??,"yes,college provides seprate hostel for boys and girls.",? ?
+hostel and transport,Is Wi-Fi provided in the hostel rooms?,yes we do provide Wi-Fi in hostel.,- ?
+hostel and transport,How do I report a complaint about hostel facilities?,you can report the complaint about hostel facilities in hostel complaint book,?
+hostel and transport,Is there 24/7 security in the hostel?,"Yes,we do provide 24/7 security in the hostel",/ ?
+hostel and transport,Are CCTV cameras installed in the hostel premises?,"Yes,hostel is under CCTV surveillance",?
+hostel and transport,Does the college provide transport facilities?,"Yes, college provide transport facilities",?
+hostel and transport,What is the transport fee for the bus facility?,Transport fee depends on the places,?
+hostel and transport,Do I need a bus pass to use the college bus?,"Yes,we do provide bus pass for college bus",?
+College Achivements,What is the current ranking of the college?,,?
+College Achivements,Is the college accredited by NAAC/NBA?,,/ ?
+College Achivements,What are the recent achievements of the college?,Excellent Engineering Institute In Rural India,?
+College Achivements,What are the major sports achievements of the college?,"KHO-KHO-8 time Champions and 1 time RunnerUp,Chethan Shetty of 7th Sem, Dept. of ISE, participated in VTU Inter Collegiate Athletics meet  for the year 2008-09 and won 1st Place in 400mts, 3rd place for the  same,Cricket team has participated in VTU Central Karnataka Zone Cricket men tournament held at JNNCE, Shimogga from 12th to 15th March 2019 and  Secured Second place in the event and qualified for inter zone tournament held at SJCIT, Chikkaballapura 9th to 12th April 2019.",?
+events and activities,Are there any inter-college competitions in the fest?,"yes ,we do conduct inter-college competitions in the fest",- ?
+events and activities,"How do I register for singing, dancing, or drama competitions?","since,their will be event coordinators,you can register with them.",", , ?"
+events and activities,Can outsiders attend the college fest?,"No,outsiders are not allowed to the college fest",?
+events and activities,What are the upcoming workshops in the college?,we do conduct many workshop realted to techinical or non technical activities.we do intimate when it will be conducted,?
+events and activities,How can I join the college football/cricket team?,you can join the team by registering with physical education department,/ ?
+events and activities,What are the sports facilities available on campus??,"we do have,cricket,Volleyball,Kabadi,Kho-Kho,throwball and indoor games",? ?
+events and activities,Can I access the gym facilities on campus?,"yes,you can access the gym facilities by paying fee and registering with physical education department",?
+events and activities,Is there an annual sports meet in the college??,"yes ,we do conduct annual sports meet every year",? ?
+events and activities,What student clubs are available in the college?,,?
+events and activities,Is there a robotics or AI club in the college?,,?
+events and activities,Is there an NSS (National Service Scheme) unit in the college??,yes we do have NSS unit in our college,( ) ? ?
+events and activities,Are there any blood donation drives or charity events?,yes we do conduct blood donation drives every year,?
+events and activities,Does the college conduct environmental awareness programs?,yes we conduct enviromental awareness program every year,?
+Placements,Does the college provide placement assistance?,yes college provide placement assistance.,?
+Placements,Which companies visit the campus for placements??,"we do get many companies like TCS,INfOSYS,DELOITEE,PCC etc.",? ?
+Placements,How can I register for campus placements??,you can register for campus palcements with CADC department,? ?
+Placements,Does the college offer resume-building workshops?,yes the college offer for resume building workshops,- ?
+Sports,What sports facilities are available on campus?,"There many sports facilities like cricket,footbal,volleyball,throwball,KHO-KHO,Kabadi etc",?
+Sports,Is there a gym in the college?,Yes college do provide Gym facilities,?
+Sports,Can hostel students access sports facilities?,yes Hostel students can access to any of the sports facilities.,?
+Sports,Are indoor games available in the college??,yes college provide Indoor games.,? ?
+Sports,How can I try out for the college football/cricket/Kho-Kho team??,there will be selection process for each sport and you can try it to ply in College Team.,/ / - ? ?
+Sports,Can students represent the college at national-level competitions?,yes Students can represent the college at antional-level competitions.,- ?
